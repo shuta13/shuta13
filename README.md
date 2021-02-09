@@ -2,7 +2,7 @@
 
 [![did0es's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuta13&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![did0es's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuta13&hide=contribs,prs)
 
 - :art: [Portfolio（en）](https://did0es.me)
 - :wrench: [Skills（ja）](https://scrapbox.io/did0es/出来る・出来ない)
