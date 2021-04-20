@@ -6,4 +6,7 @@
 
 *JSer*, creating something on the Web
 
+- [Blog](https://blog.did0es.me)
+- [HP](https://studio.did0es.me)
+
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
