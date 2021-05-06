@@ -4,7 +4,7 @@
 
 ![](https://github.com/shuta13/shuta13/blob/media/top-gif/assets/gif/icon.gif)
 
-*JSer*, creating something on the Web
+*JSer*, creating something.
 
 - [Blog](https://blog.did0es.me)
 - [HP](https://studio.did0es.me)
